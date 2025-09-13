@@ -1,4 +1,6 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+# NAME:JEECIKASRINA M
+REG NO:212223100015
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
@@ -46,8 +48,6 @@ Disk Structure Analysis Results
 ![image](https://github.com/user-attachments/assets/73d76474-7e69-4f31-aced-44b499898e20)
 
 ![image](https://github.com/user-attachments/assets/a99c6da6-ea10-41c5-885e-8e15e7471f99)
-
-
 
 
 
